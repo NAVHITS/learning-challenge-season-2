@@ -13,4 +13,4 @@ It starts today!
 #### Day 2 (July 2)
 - No learning - InfyTQ Python exam
 #### Day 3 (July 3)
-- Using Python conditions, functions and Regex librabry (Learnings here)[https://github.com/NAVHITS/py_exps/tree/master/beginner]
+- Using Python conditions, functions and Regex librabry [Learnings here](https://github.com/NAVHITS/py_exps/tree/master/beginner)
