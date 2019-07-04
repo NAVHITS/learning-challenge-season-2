@@ -23,3 +23,7 @@ It starts today!
   7. [For Loop 1](https://github.com/NAVHITS/py_exps/blob/master/beginner/set7.py)
   8. [For Loop 1](https://github.com/NAVHITS/py_exps/blob/master/beginner/set8.py)
 - Using MySQL with Python with mysql-connector package
+#### Day 4 (July 4)
+- Practice MySQL with Python
+  1. [Connecting and creating table](https://github.com/NAVHITS/py_exps/blob/master/mysql/set1.py)
+  2. [Inserting data](https://github.com/NAVHITS/py_exps/blob/master/mysql/set2.py)
