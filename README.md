@@ -22,6 +22,7 @@ It starts today!
   6. [Nested if condition](https://github.com/NAVHITS/py_exps/blob/master/beginner/set6.py)
   7. [For Loop 1](https://github.com/NAVHITS/py_exps/blob/master/beginner/set7.py)
   8. [For Loop 1](https://github.com/NAVHITS/py_exps/blob/master/beginner/set8.py)
+  9. (String handling)[https://github.com/NAVHITS/py_exps/blob/master/beginner/set10.py]
 - Using MySQL with Python with mysql-connector package
 #### Day 4 (July 4)
 - Practice MySQL with Python
