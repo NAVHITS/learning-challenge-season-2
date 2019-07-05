@@ -42,3 +42,8 @@ It starts today!
   7. [Using startswith function](https://github.com/NAVHITS/py_exps/blob/master/player/set11.py)
   8. [Performing decend with sort and list slicing](https://github.com/NAVHITS/py_exps/blob/master/hunter/set2.py)
   9. [Using the Counter container from collections package](https://github.com/NAVHITS/py_exps/blob/master/hunter/set1.py)
+- Flask web framework
+  1. [Running hello world](https://github.com/NAVHITS/py_exps/blob/master/flask/set1.py)
+  2. [Redering a template](https://github.com/NAVHITS/py_exps/blob/master/flask/set2.py)
+  3. [Forms with Flask](https://github.com/NAVHITS/py_exps/blob/master/flask/set3.py)
+  4. [File handling with werkzeug package](https://github.com/NAVHITS/py_exps/blob/master/flask/set4.py)
