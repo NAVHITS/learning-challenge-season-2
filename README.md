@@ -56,3 +56,5 @@ It starts today!
 - Networking
   1. [TCP](https://github.com/NAVHITS/py_exps/blob/master/networking)
       1. [Server](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_s.py) | [Client](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_c.py)
+- JSON package
+  1. [Saving dictionary to JSON file](https://github.com/NAVHITS/py_exps/blob/master/json/set1.py)
