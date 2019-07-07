@@ -2,9 +2,9 @@
 ## Team name: Python Predators
 
 ## Learning Topics:
-- Advanced Python __(done)
-- Flask __(done)
-- Mysql __(done)
+- Advanced Python __(done)__
+- Flask __(done)__
+- Mysql __(done)__
 
 It starts today!
 
