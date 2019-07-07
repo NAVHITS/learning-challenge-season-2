@@ -47,3 +47,13 @@ It starts today!
   2. [Redering a template](https://github.com/NAVHITS/py_exps/blob/master/flask/set2.py)
   3. [Forms with Flask](https://github.com/NAVHITS/py_exps/blob/master/flask/set3.py)
   4. [File handling with werkzeug package](https://github.com/NAVHITS/py_exps/blob/master/flask/set4.py)
+  
+ #### Day 6 (July 6)
+ - No learnings
+ #### Day 7 (July 7)
+- Flask experiments
+  1. [Mail with flask](https://github.com/NAVHITS/py_exps/blob/master/flask/set5.py)
+- Networking
+  1. [TCP](https://github.com/NAVHITS/py_exps/blob/master/networking)
+    i. [Server](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_s.py)
+    ii. [Client](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_c.py)
