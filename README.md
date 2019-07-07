@@ -55,5 +55,4 @@ It starts today!
   1. [Mail with flask](https://github.com/NAVHITS/py_exps/blob/master/flask/set5.py)
 - Networking
   1. [TCP](https://github.com/NAVHITS/py_exps/blob/master/networking)
-    1. [Server](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_s.py)
-    2. [Client](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_c.py)
+    [Server](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_s.py) | [Client](https://github.com/NAVHITS/py_exps/blob/master/networking/set1_c.py)
