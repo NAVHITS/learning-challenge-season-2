@@ -57,7 +57,7 @@ It starts today!
  - No learnings
  
  #### Day 7 (July 7)
-- Flask experiments
+- More Flask experiments
   1. [Mail with flask](https://github.com/NAVHITS/py_exps/blob/master/flask/set5.py)
 - Networking (Sockets)
   1. [TCP](https://github.com/NAVHITS/py_exps/blob/master/networking)
